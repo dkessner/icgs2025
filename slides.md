@@ -230,6 +230,8 @@ TODO: data analysis
 
 <img src="pix/youth_incarceration.png" width="45%"/>
 
+TODO: food desert project
+
 ---
 
 ## Journalism
@@ -243,6 +245,8 @@ TODO: data analysis
 
 
 <img src="pix/ai_club.jpg" width="45%"/>
+
+TODO: more pix
 
 ---
 
