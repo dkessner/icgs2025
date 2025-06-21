@@ -3,52 +3,39 @@
 ## Coding Across the Curriculum
 
 <br/>
+]
 
-_2025 ICGS Conference_  
-_Philadelphia_  
-_June 24, 2025_  
+<p>
+.split-40[
 
+.column[
+<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="80%"/>
+]
+
+.column[
 <br/>
-]
+2025 ICGS Conference  
+Philadelphia  
+June 24, 2025  
+<br/>
 
-.center.purple[
 Darren Kessner, PhD  
-Program Head of Computer Science and Software Innovation
-Marlborough School  
-Darren.Kessner@marlborough.org  
-[http://stem.marlborough.org](http://stem.marlborough.org)  
-[https://marlborough-school.github.io/stem_website/](https://marlborough-school.github.io/stem_website/)
+_Program Head of Computer Science and Software Innovation_    
+_Marlborough School, Los Angeles_  
+
 ]
----
-
-
+]
+</p>
 
 .center[
-## Building a Fun and Exciting Computer Science Curriculum
-
-<br/>
-
-_2019 NCGS Conference_  
-_Westridge School, Los Angeles_  
-_June 25, 2019_  
-
 <br/>
 ]
 
-.center.purple[
-Darren Kessner, PhD  
-Math and Computer Science Instructor  
-STEM+ Program Co-Head  
-Marlborough School  
-Darren.Kessner@marlborough.org  
-[http://stem.marlborough.org](http://stem.marlborough.org)
-]
 ---
-
 
 ## Marlborough School
 
-* All girls independent school, located in Hancock Park
+* All girls independent school, located in Los Angeles
 
 * Middle School (7-9) and Upper School (10-12)
 
@@ -58,30 +45,48 @@ Darren.Kessner@marlborough.org
 .center[
 <img src="pix/marlborough.jpg" width="500px">
 ]
+
+
 ---
 
+### Who Am I?
 
-## My background
+.split-40[
+.column[
+.center[
+<img src="pix/DarrenKessner_25.jpg" width="50%"/>
+<img src="pix/marlborough_school_cover.jpeg" width="70%"/>
+<img src="pix/ei_building.jpg" width="70%"/>
+]
+]
 
-<br/>
-5 years at Marlborough School:
+.column[
+.center[
+__Dr. Darren Kessner__
+]
 
-- Math and Computer Science Instructor
+- BS, MA in Mathematics
 
-- STEM+ Program Co-Head
+- PhD in Bioinformatics
 
-- Computer Science curriculum coordinator
+- Software developer for over 25 years
 
-<br/>
+.center[
+__Marlborough School__
+]
 
-Education / experience: 
+- Program Head of Computer Science and Software Innovation (11 years)
 
-* Mathematics (BS, MA), Bioinformatics (PhD)
+- AP Computer Science and Honors Computer Science Projects
 
-* worked in software development for 20 years
-    - Anti-virus security
-    - Computer graphics / user interface
-    - Scientific applications (biology)
+.center[
+__Ellison Medical Institute__  
+]
+
+- Senior Software Engineer, AI and Advanced Molecular Medicine 
+
+]
+]
 
 ---
 
