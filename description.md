@@ -14,3 +14,24 @@ and Social Justice.  I will also describe the landscape of languages, tools,
 and free resources for CS education.  
 
 
+## outline
+
+- robotics
+- math / science (PCHA / MultiV / Physics Scratch)
+- history (world history visual narratives)
+- visual arts
+- performing arts (asdc, theater)
+- honors research (data analysis, mars journal)
+- social justice
+- journalism
+
+- Code Violet / AI club
+- Celebration of Innovation / STEM galleries
+
+
+- code paths
+    - Processing / Java
+    - p5.js / Javascript
+    - Python
+
+
