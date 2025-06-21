@@ -91,56 +91,21 @@ __Ellison Medical Institute__
 ---
 
 
-## Marlborough STEM+ Program
+## Computer Science Program
 
-Emphasis on STEM activities that are creative, collaborative, and interdisciplinary:
+Emphasis on software projects that are creative, collaborative, and
+interdisciplinary.
 
-* Computer Science
+* Computer Programming (Processing)
 
-* Robotics (Andy Witman)
+* AP Computer Science A (Java)
 
-* Engineering (Dr. Lee Hamill)
+* Honors Computer Science Projects (Java, Javascript, Python)
+
 
 <br/>
 <img src="pix/stem_gallery_1.jpg" width="49%">
 <img src="pix/stem_gallery_2.jpg" width="49%">
----
-
-
-## Computer Science curriculum
-
-* Computer Science Core Curriculum
-
-    - Introductory Elective _(Processing)_
-
-    - AP Computer Science A  _(Java)_
-
-    - Honors CS Projects  _(Processing, Java, Python, Arduino)_
-
-<br/>
-
-* Other Coding: 
-
-    - Robotics _(Java)_
-
-    - Math _(Python)_
-
-    - Physics _(Scratch)_
-
-    - Coding Electives _(HTML/CSS/Javascript, Arduino)_
-
----
-
-.center[
-
-## Coding and the Visual Arts
-<img src="pix/emma.png" width="50%"/>  
-[Intro Coding](https://docs.google.com/presentation/d/e/2PACX-1vQbl6ehE3egw6l0cnLnrl1AlRIriBe2pgYAXdjF5n5I6vR_o-CkwHrCaVr6WZ5ICrY6jwYtYLZc7BsZ/pub?start=false&loop=true&delayms=3000#slide=id.g4bb6c39a5a_0_0)  
-[SPARC Celebration 2019](https://photos.google.com/share/AF1QipPo1kFd0xEwpD_Vy1_-TKytODE97tlvxcIDkPAunK4dpsqHqm3ei2dDqHQMhChOYQ?key=d2NKUTZkT1p1c0RueTVSekh5QTgzZU9ucHJDN2RR)
-[STEM + Arts 2018](https://photos.google.com/share/AF1QipNcahE5U7niniblHE919BuSblMAyAmF7tscjNpcfUysr0j5ff5hSiFekeNLjqInrA?key=VlBxbUM4b2RlUTNYd3Nvdzg0bmdLR2ZBcFM2Wkhn)  
-[SPARC Celebration 2018](https://photos.google.com/share/AF1QipN0fegBzrSbaMfKjGkLmshivHj3aWR6vB2GoS7Jyj6g1fM5E9XFEmQLtl-G8dTvmQ?key=ekMweUpJR1c4Zm1sLV9BUXN0NjhmVjZDYktySDlR)
-[STEM + Arts 2017](https://photos.google.com/share/AF1QipOYErHZ6rmoobXG3zS9jQ7RG6VIFG3rLg6cVSaqXo79FLSlwtyufeV8b-JLC_xAQA?key=OS0tdEM0bERudnhHeGR4Q05YclpqWF8xeExDWEdn)
-]
 
 ---
 
@@ -161,6 +126,20 @@ Toys and games are preludes to serious ideas._
 __ Charles Eames __
 </small>
 ]
+
+---
+
+.center[
+
+## Coding and the Visual Arts
+<img src="pix/emma.png" width="50%"/>  
+[Intro Coding](https://docs.google.com/presentation/d/e/2PACX-1vQbl6ehE3egw6l0cnLnrl1AlRIriBe2pgYAXdjF5n5I6vR_o-CkwHrCaVr6WZ5ICrY6jwYtYLZc7BsZ/pub?start=false&loop=true&delayms=3000#slide=id.g4bb6c39a5a_0_0)  
+[SPARC Celebration 2019](https://photos.google.com/share/AF1QipPo1kFd0xEwpD_Vy1_-TKytODE97tlvxcIDkPAunK4dpsqHqm3ei2dDqHQMhChOYQ?key=d2NKUTZkT1p1c0RueTVSekh5QTgzZU9ucHJDN2RR)
+[STEM + Arts 2018](https://photos.google.com/share/AF1QipNcahE5U7niniblHE919BuSblMAyAmF7tscjNpcfUysr0j5ff5hSiFekeNLjqInrA?key=VlBxbUM4b2RlUTNYd3Nvdzg0bmdLR2ZBcFM2Wkhn)  
+[SPARC Celebration 2018](https://photos.google.com/share/AF1QipN0fegBzrSbaMfKjGkLmshivHj3aWR6vB2GoS7Jyj6g1fM5E9XFEmQLtl-G8dTvmQ?key=ekMweUpJR1c4Zm1sLV9BUXN0NjhmVjZDYktySDlR)
+[STEM + Arts 2017](https://photos.google.com/share/AF1QipOYErHZ6rmoobXG3zS9jQ7RG6VIFG3rLg6cVSaqXo79FLSlwtyufeV8b-JLC_xAQA?key=OS0tdEM0bERudnhHeGR4Q05YclpqWF8xeExDWEdn)
+]
+
 
 ---
 
