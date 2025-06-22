@@ -1,41 +1,34 @@
 
 .center[
 ## Coding Across the Curriculum
-
-<br/>
 ]
 
-<p>
-.split-40[
-
-.column[
-<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="80%"/>
-]
-
-.column[
-<br/>
-2025 ICGS Conference  
-Philadelphia  
-June 24, 2025  
-<br/>
+.center[
+2025 ICGS Conference    
+Philadelphia   
+June 24, 2025   
 
 Darren Kessner, PhD  
 _Program Head of Computer Science and Software Innovation_    
 _Marlborough School, Los Angeles_  
+]
 
-]
-]
-</p>
 
-.center[
-<br/>
+.split-50[
+.column[ .center[
+<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="65%"/>
+]]
+.column[ .center[
+<img src="pix/qr_icgs2025.png" width="65%"/>
+]]
 ]
+
 
 ---
 
-## Marlborough School
+### Marlborough School
 
-* All girls independent school, located in Los Angeles
+* Independent girls' school, located in Los Angeles
 
 * Middle School (7-9) and Upper School (10-12)
 
@@ -50,12 +43,13 @@ _Marlborough School, Los Angeles_
 ---
 
 ### Who Am I?
-
 .split-40[
 .column[
 .center[
-<img src="pix/DarrenKessner_25.jpg" width="50%"/>
-<img src="pix/marlborough_school_cover.jpeg" width="70%"/>
+<img src="pix/DarrenKessner_25.jpg" width="50%"/>  
+<br/><br/>
+<img src="pix/marlborough_school_cover.jpeg" width="70%"/>  
+<br/><br/>
 <img src="pix/ei_building.jpg" width="70%"/>
 ]
 ]
@@ -69,16 +63,16 @@ __Dr. Darren Kessner__
 
 - PhD in Bioinformatics
 
-- Software developer for over 25 years
+- Software developer for &gt;25 years  
 
+<br/>
 .center[
 __Marlborough School__
 ]
 
 - Program Head of Computer Science and Software Innovation (11 years)
 
-- AP Computer Science and Honors Computer Science Projects
-
+<br/>
 .center[
 __Ellison Medical Institute__  
 ]
@@ -91,7 +85,7 @@ __Ellison Medical Institute__
 ---
 
 
-## Computer Science Program
+### Computer Science Program
 
 - Emphasis on software projects that are creative, collaborative, and
 interdisciplinary
@@ -101,14 +95,14 @@ interdisciplinary
 - Open source software, open educational resources
 
 
-<br/>
+<br/><br/>
 <img src="pix/stem_gallery_1.jpg" width="49%">
 <img src="pix/stem_gallery_2.jpg" width="49%">
 
 ---
 
 
-## Computer Science Curriculum
+### Computer Science Curriculum
 
 
 * Core sequence
@@ -132,7 +126,7 @@ interdisciplinary
 ---
 
 
-## Video Games
+### Video Games
 
 <img src="pix/video_game_cabinet_1.jpg" width="45%">
 <img src="pix/coi38.jpg" width="45%">
@@ -152,13 +146,13 @@ __ Charles Eames __
 
 ---
 
-## Robotics
+### Robotics
 
 TODO: pix
 
 ---
 
-## Math / Science
+### Math / Science
 
 <p>
 <small>
@@ -184,7 +178,7 @@ and parametric surfaces (Multivariable Calculus, custom p5.js)
 
 ---
 
-## History
+### History
 
 <img src="pix/world_history.png" width="50%"/>
 
@@ -192,7 +186,7 @@ TODO: more pix
 
 ---
 
-## Visual Arts
+### Visual Arts
 
 <img src="pix/emma.png" width="50%"/>  
 
@@ -206,7 +200,7 @@ TODO: more pix
 
 ---
 
-## Performing Arts
+### Performing Arts
 
 <img src="pix/asdc1.jpg" width="45%"/>
 <img src="pix/asdc2.jpg" width="45%"/>
@@ -216,7 +210,7 @@ TODO: 1 more pix
 
 ---
 
-## Honors Research
+### Honors Research
 
 Marlborough Academic Research 
 
@@ -226,7 +220,7 @@ TODO: data analysis
 
 ---
 
-## Social Justice
+### Social Justice
 
 <img src="pix/youth_incarceration.png" width="45%"/>
 
@@ -234,14 +228,14 @@ TODO: food desert project
 
 ---
 
-## Journalism
+### Journalism
 
 <img src="pix/uv.jpg" width="45%"/>
 <img src="pix/uv2.png" width="45%"/>
 
 ---
 
-## Code Violet / AI club
+### Code Violet / AI club
 
 
 <img src="pix/ai_club.jpg" width="45%"/>
@@ -250,7 +244,7 @@ TODO: more pix
 
 ---
 
-## Celebration of Innovation 
+### Celebration of Innovation 
 
 <img src="pix/coi30.jpg" width="45%"/>
 <img src="pix/coi39.jpg" width="45%"/>
@@ -261,7 +255,7 @@ TODO: more pix
 
 ---
 
-## Code paths (?)
+### Code paths (?)
 
 - Processing / Java
 - p5.js / Javascript
@@ -270,24 +264,23 @@ TODO: more pix
 
 ---
 
-## Resources and Links
+### Resources and Links
 
-Marlborough School  
-[http://marlborough.org](http://marlborough.org)
 
-Marlborough STEM+ Program  
-[http://stem.marlborough.org](http://stem.marlborough.org)
+<br/>
 
-Processing open source language and development environment
-[http://processing.org](http://processing.org)
+Darren Kessner   
+[https://dkessner.github.io/](https://dkessner.github.io/)
 
-Book chapter on Computer Science education
-[http://stem.marlborough.org/blog/kessner-book-chapter/](http://stem.marlborough.org/blog/kessner-book-chapter/)
+<br/>
 
-Processing Lessons and Examples  
-[http://stem.marlborough.org/coding](http://stem.marlborough.org/coding/)
+Marlborough STEM+ Program    
+[https://marlborough-school.github.io/stem_website/](https://marlborough-school.github.io/stem_website/)
 
-Processing Library Examples  
-[https://dkessner.github.io/ProcessingLibraryExamples/](https://dkessner.github.io/ProcessingLibraryExamples/)  
+
+<br/>
+.center[
+<img src="pix/qr_icgs2025.png" width="30%"/>
+]
 
 
