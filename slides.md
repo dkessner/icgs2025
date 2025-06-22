@@ -193,9 +193,14 @@ Students write Java code to control their robots.
 
 ### History
 
-<img src="pix/world_history.png" width="50%"/>
-
-TODO: more pix
+.split-40[
+.column[ .center[
+<img src="pix/world_history.png" width="90%"/>  
+]]
+.column[ .center[
+<img src="pix/world_history_2.png" width="100%"/>
+]]
+]
 
 ---
 
