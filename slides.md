@@ -148,29 +148,42 @@ __ Charles Eames __
 
 ### Robotics
 
-TODO: pix
+Students write Java code to control their robots.
+
+.split-50[
+.column[ .center[
+<img src="pix/robotics3.jpg" width="80%"/>  
+<br/>
+<img src="pix/robotics4.jpg" width="90%"/>  
+]]
+
+.column[ .center[
+<img src="pix/robotics1.jpg" width="80%"/>
+<br/>
+<img src="pix/robotics2.jpg" width="80%"/>  
+]]
+]
+
+
 
 ---
 
 ### Math / Science
 
-<p>
-<small>
-Drawing with parametric curves (Honors Precalculus, Python turtle graphics)
-and parametric surfaces (Multivariable Calculus, custom p5.js)
-</small>
-</p>
 
+- Precalculus: Drawing with parametric curves (Python turtle graphics)
+
+- Multivariable Calculus: 3D drawings with parametric surfaces (custom p5.js)
 
 .split-50[
 .column[ .center[
-<img src="pix/sophie1.png" width="50%"/>  
+<img src="pix/sophie1.png" width="45%"/>  
 <br/>
 <img src="pix/math1.png" width="55%"/>  
 ]]
 
 .column[ .center[
-<img src="pix/math3.png" width="50%"/>
+<img src="pix/math3.png" width="45%"/>
 <br/>
 <img src="pix/math2.png" width="55%"/>  
 ]]
@@ -269,14 +282,13 @@ TODO: more pix
 
 <br/>
 
-Darren Kessner   
-[https://dkessner.github.io/](https://dkessner.github.io/)
+Darren Kessner  
+[https://dkessner.github.io](https://dkessner.github.io)
 
 <br/>
 
-Marlborough STEM+ Program    
-[https://marlborough-school.github.io/stem_website/](https://marlborough-school.github.io/stem_website/)
-
+Marlborough STEM+ Program   
+[https://marlborough-school.github.io/stem_website](https://marlborough-school.github.io/stem_website)
 
 <br/>
 .center[
