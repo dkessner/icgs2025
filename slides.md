@@ -163,17 +163,17 @@ and parametric surfaces (Multivariable Calculus, custom p5.js)
 
 
 .split-50[
-.column[
+.column[ .center[
 <img src="pix/sophie1.png" width="50%"/>  
 <br/>
 <img src="pix/math1.png" width="55%"/>  
-]
+]]
 
-.column[
+.column[ .center[
 <img src="pix/math3.png" width="50%"/>
 <br/>
 <img src="pix/math2.png" width="55%"/>  
-]
+]]
 ]
 
 ---
