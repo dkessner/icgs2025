@@ -174,8 +174,10 @@ Students write code to control their robots (Java).
 
 ### Engineering and Entrepreneurship
 
-Students prototype inventions with Arduino microcontrollers (C)
-or Raspberry Pi mini-computers (Python).
+Students prototype inventions with Raspberry Pi mini-computers (Python) or
+Arduino microcontrollers (C).
+
+<br/>
 
 <img src="pix/invent1.jpg" width="45%"/>
 <img src="pix/invent2.jpg" width="50%"/>  
@@ -210,6 +212,7 @@ or Raspberry Pi mini-computers (Python).
 World History Visual Narratives:  Students created web-based visual novels to
 present their research for their final projects (HTML / Javascript).
 
+<br/>
 
 .split-40[
 .column[ .center[
@@ -226,6 +229,8 @@ present their research for their final projects (HTML / Javascript).
 
 Students work on algorithmic / generative art projects
 in Computer Programming (Processing).  
+
+<br/>
 
 <img src="pix/emma.png" width="45%"/>
 <img src="pix/art2.jpg" width="45%"/>  
