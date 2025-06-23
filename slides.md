@@ -274,30 +274,44 @@ student newspaper website, with live updates on election night.
 
 ### Code Violet / AI club
 
+Student coding clubs organize Hour of Code activities and 
+speaker events.
 
+<img src="pix/hour_of_code.png" width="50%"/>
 <img src="pix/ai_club.jpg" width="45%"/>
-
-TODO: more pix
 
 ---
 
 ### Celebration of Innovation 
 
-<img src="pix/coi30.jpg" width="45%"/>
-<img src="pix/coi39.jpg" width="45%"/>
+The Celebration of Innovation is an annual year-end event for students to share
+their creations with friends and family.
+
+<img src="pix/coi30.jpg" width="40%"/>
+<img src="pix/coi39.jpg" width="40%"/>
 <br/>
 <br/>
-<img src="pix/coi37.jpg" width="45%"/>
-<img src="pix/coi52.jpg" width="45%"/>
+<img src="pix/coi37.jpg" width="40%"/>
+<img src="pix/coi52.jpg" width="40%"/>
 
 ---
 
-### Code paths (?)
+### Coding Onramps
 
 - Processing / Java
-- p5.js / Javascript
-- Python
+    - Processing is a free, open source programming language and development
+    environment.  It is a good first step to learning Java.
+    - [https://processing.org/](https://processing.org/)
 
+- p5.js / Javascript
+    - p5.js is a Javascript version of Processing.  It is a good entrance
+    into Javascript / web development.
+    - [https://p5js.org/](https://p5js.org/)
+
+- Python
+    - Python has the easiest syntax, and is used in the real world for
+    everything from data analysis to AI research.
+    - [https://www.python.org/](https://www.python.org/)
 
 ---
 
