@@ -16,7 +16,9 @@ _Marlborough School, Los Angeles_
 
 .split-50[
 .column[ .center[
-<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="65%"/>
+<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="50%"/>  
+<br/>
+<img src="pix/marlborough_logo_3.png" width="50%"/>
 ]]
 .column[ .center[
 <img src="pix/qr_icgs2025.png" width="65%"/>
