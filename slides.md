@@ -122,6 +122,8 @@ interdisciplinary
 
     - Robotics (Java)
 
+    - Honors Research (Python, R)
+
 
 ---
 
@@ -252,13 +254,18 @@ web-based journal.
 
 ### Social Justice
 
-<img src="pix/youth_incarceration.png" width="45%"/>
+Honors CS Projects students collaborate with non-profit organizations
+on social justice projects.
 
-TODO: food desert project
+<img src="pix/youth_incarceration.png" width="45%"/>
+<img src="pix/social_justice.png" width="45%"/>
 
 ---
 
 ### Journalism
+
+Interactive election map, which our student journalists published on the
+student newspaper website, with live updates on election night.
 
 <img src="pix/uv.jpg" width="45%"/>
 <img src="pix/uv2.png" width="45%"/>
