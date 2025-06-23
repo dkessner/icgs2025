@@ -124,6 +124,8 @@ interdisciplinary
 
     - Robotics (Java)
 
+    - Engineering and Entrepreneurship (Python, C)
+
     - Honors Research (Python, R)
 
 
@@ -184,7 +186,7 @@ Arduino microcontrollers (C).
 
 ---
 
-### Math / Science
+### Math and Science
 
 
 - Precalculus: Drawing with parametric curves (Python turtle graphics)
