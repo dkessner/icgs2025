@@ -193,6 +193,10 @@ Students write Java code to control their robots.
 
 ### History
 
+World History Visual Narratives:  Students created web-based visual novels to
+present their research for their final projects.
+
+
 .split-40[
 .column[ .center[
 <img src="pix/world_history.png" width="90%"/>  
@@ -206,25 +210,29 @@ Students write Java code to control their robots.
 
 ### Visual Arts
 
-<img src="pix/emma.png" width="50%"/>  
+Students work on algorithmic / generative art projects
+in Computer Programming.  
 
-TODO: more pix
-
-[Intro Coding](https://docs.google.com/presentation/d/e/2PACX-1vQbl6ehE3egw6l0cnLnrl1AlRIriBe2pgYAXdjF5n5I6vR_o-CkwHrCaVr6WZ5ICrY6jwYtYLZc7BsZ/pub?start=false&loop=true&delayms=3000#slide=id.g4bb6c39a5a_0_0)  
-[SPARC Celebration 2019](https://photos.google.com/share/AF1QipPo1kFd0xEwpD_Vy1_-TKytODE97tlvxcIDkPAunK4dpsqHqm3ei2dDqHQMhChOYQ?key=d2NKUTZkT1p1c0RueTVSekh5QTgzZU9ucHJDN2RR)
-[STEM + Arts 2018](https://photos.google.com/share/AF1QipNcahE5U7niniblHE919BuSblMAyAmF7tscjNpcfUysr0j5ff5hSiFekeNLjqInrA?key=VlBxbUM4b2RlUTNYd3Nvdzg0bmdLR2ZBcFM2Wkhn)  
-[SPARC Celebration 2018](https://photos.google.com/share/AF1QipN0fegBzrSbaMfKjGkLmshivHj3aWR6vB2GoS7Jyj6g1fM5E9XFEmQLtl-G8dTvmQ?key=ekMweUpJR1c4Zm1sLV9BUXN0NjhmVjZDYktySDlR)
-[STEM + Arts 2017](https://photos.google.com/share/AF1QipOYErHZ6rmoobXG3zS9jQ7RG6VIFG3rLg6cVSaqXo79FLSlwtyufeV8b-JLC_xAQA?key=OS0tdEM0bERudnhHeGR4Q05YclpqWF8xeExDWEdn)
+<img src="pix/emma.png" width="45%"/>
+<img src="pix/art2.jpg" width="45%"/>  
 
 ---
 
 ### Performing Arts
 
-<img src="pix/asdc1.jpg" width="45%"/>
-<img src="pix/asdc2.jpg" width="45%"/>
-<img src="pix/asdc3.jpg" width="45%"/>
+Honors CS Projects students collaborate with student choreographers to create
+video projections for the All School Dance Concert.
 
-TODO: 1 more pix
+.split-50[
+.column[ .center[
+<img src="pix/asdc1.jpg" width="80%"/>
+<img src="pix/asdc2.jpg" width="80%"/>
+]]
+.column[ .center[
+<img src="pix/asdc3.jpg" width="80%"/>
+<img src="pix/asdc_izzi.png" width="80%"/>
+]]
+]
 
 ---
 
