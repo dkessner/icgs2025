@@ -238,11 +238,15 @@ video projections for the All School Dance Concert.
 
 ### Honors Research
 
-Marlborough Academic Research 
 
-<img src="pix/mars.png" width="45%"/>
+Honors Research students learn to analyze data in Python.
 
-TODO: data analysis
+Honors CS Projects students maintain the Marlborough Academic Research Society
+web-based journal.
+
+<img src="pix/honors_research.png" width="45%"/>
+<img src="pix/mars.png" width="50%"/>
+
 
 ---
 
