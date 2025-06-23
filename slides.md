@@ -150,7 +150,7 @@ __ Charles Eames __
 
 ### Robotics
 
-Students write Java code to control their robots.
+Students write code to control their robots (Java).
 
 .split-50[
 .column[ .center[
@@ -167,6 +167,16 @@ Students write Java code to control their robots.
 ]
 
 
+
+---
+
+### Engineering and Entrepreneurship
+
+Students prototype inventions with Arduino microcontrollers (C)
+or Raspberry Pi mini-computers (Python).
+
+<img src="pix/invent1.jpg" width="45%"/>
+<img src="pix/invent2.jpg" width="50%"/>  
 
 ---
 
@@ -196,7 +206,7 @@ Students write Java code to control their robots.
 ### History and Social Science
 
 World History Visual Narratives:  Students created web-based visual novels to
-present their research for their final projects.
+present their research for their final projects (HTML / Javascript).
 
 
 .split-40[
@@ -213,7 +223,7 @@ present their research for their final projects.
 ### Visual Arts
 
 Students work on algorithmic / generative art projects
-in Computer Programming.  
+in Computer Programming (Processing).  
 
 <img src="pix/emma.png" width="45%"/>
 <img src="pix/art2.jpg" width="45%"/>  
@@ -223,10 +233,13 @@ in Computer Programming.
 ### Honors Research
 
 
-Honors Research students learn to analyze data in Python.
+Honors Research students learn to analyze data in Python, using real-world
+software libraries and tools, e.g. Jupyter Notebooks, Pandas.
 
 Honors CS Projects students maintain the Marlborough Academic Research Society
-web-based journal.
+web-based journal (Python, HTML/CSS/Javascript).
+
+<br/>
 
 <img src="pix/honors_research.png" width="45%"/>
 <img src="pix/mars.png" width="50%"/>
@@ -237,7 +250,9 @@ web-based journal.
 ### Social Justice
 
 Honors CS Projects students collaborate with non-profit organizations
-on social justice projects.
+on social justice projects.  (Python, Processing, p5.js + HTML/CSS/Javascript)
+
+<br/>
 
 <img src="pix/youth_incarceration.png" width="45%"/>
 <img src="pix/social_justice.png" width="45%"/>
@@ -247,7 +262,10 @@ on social justice projects.
 ### Journalism
 
 Interactive election map, which our student journalists published on the
-student newspaper website, with live updates on election night.
+student newspaper website, with live updates on election night. 
+(Python, p5.js + HTML/CSS/Javascript)
+
+<br/>
 
 <img src="pix/uv.jpg" width="45%"/>
 <img src="pix/uv2.png" width="45%"/>
