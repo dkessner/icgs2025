@@ -193,7 +193,7 @@ Students write Java code to control their robots.
 
 ---
 
-### History
+### History and Social Science
 
 World History Visual Narratives:  Students created web-based visual novels to
 present their research for their final projects.
@@ -217,24 +217,6 @@ in Computer Programming.
 
 <img src="pix/emma.png" width="45%"/>
 <img src="pix/art2.jpg" width="45%"/>  
-
----
-
-### Performing Arts
-
-Honors CS Projects students collaborate with student choreographers to create
-video projections for the All School Dance Concert.
-
-.split-50[
-.column[ .center[
-<img src="pix/asdc1.jpg" width="80%"/>
-<img src="pix/asdc2.jpg" width="80%"/>
-]]
-.column[ .center[
-<img src="pix/asdc3.jpg" width="80%"/>
-<img src="pix/asdc_izzi.png" width="80%"/>
-]]
-]
 
 ---
 
@@ -269,6 +251,25 @@ student newspaper website, with live updates on election night.
 
 <img src="pix/uv.jpg" width="45%"/>
 <img src="pix/uv2.png" width="45%"/>
+
+---
+
+### Performing Arts
+
+Honors CS Projects students collaborate with student choreographers to create
+video projections for the All School Dance Concert and special effects for
+theater productions.
+
+.split-50[
+.column[ .center[
+<img src="pix/asdc1.jpg" width="80%"/>
+<img src="pix/asdc2.jpg" width="80%"/>
+]]
+.column[ .center[
+<img src="pix/asdc3.jpg" width="80%"/>
+<img src="pix/asdc_izzi.png" width="80%"/>
+]]
+]
 
 ---
 
